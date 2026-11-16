@@ -4,7 +4,7 @@ Release:        1%{?dist}
 Summary:        Apache OpenMeetings web conferencing system
 License:        Apache-2.0
 URL:            https://openmeetings.apache.org/
-Source0:        https://www.apache.org/dyn/closer.lua/openmeetings/9.1.0/bin/apache-openmeetings-9.1.0.tar.gz
+Source0:        https://downloads.apache.org/openmeetings/%{version}/bin/apache-openmeetings-%{version}.tar.gz
 BuildArch:      noarch
 
 # OpenMeetings 9.1.0 requires Java 21
